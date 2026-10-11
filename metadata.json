@@ -1,0 +1,6 @@
+{
+  "name": "IndexPulse - Google Index & SERP Checker",
+  "description": "Inspect URL indexation status in Google Search with real-time grounding, technical on-page SEO diagnostics, robots.txt auditing, and SERP snippet previews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
